@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="0fc93ece-5eda-4699-9647-d6b57bd4e4f9" name="desfero">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
