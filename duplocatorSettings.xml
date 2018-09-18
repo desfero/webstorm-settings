@@ -2,20 +2,10 @@
   <component name="DuplocatorSettings">
     <option name="SELECTED_PROFILES">
       <set>
-        <option value="TypeScript" />
-        <option value="TypeScript JSX" />
+        <option value="CSS" />
+        <option value="HTML" />
       </set>
     </option>
     <option name="LAST_SELECTED_LANGUAGE" value="TypeScript JSX" />
-  </component>
-  <component name="MultiLanguageDuplocatorSettings">
-    <object language="TypeScript">
-      <option name="DISTINGUISH_FUNCTIONS" value="false" />
-      <option name="DISTINGUISH_LITERALS" value="false" />
-    </object>
-    <object language="TypeScript JSX">
-      <option name="DISTINGUISH_FUNCTIONS" value="false" />
-      <option name="DISTINGUISH_LITERALS" value="false" />
-    </object>
   </component>
 </application>
