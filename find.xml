@@ -15,5 +15,6 @@
     <mask>*.scss</mask>
     <mask>*.stories.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>!*.json</mask>
   </component>
 </application>
